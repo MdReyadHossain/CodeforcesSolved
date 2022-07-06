@@ -11,7 +11,7 @@ main() {
         cin >> a[i];  
         if(a[i] <= min) {
             min = a[i];
-            min_index = i;
+            min_index = i;  
         } 
         if(a[i] > max) {
             max = a[i];
